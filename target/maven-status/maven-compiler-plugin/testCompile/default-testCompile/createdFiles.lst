@@ -1,0 +1,4 @@
+com\cognizant\ms\controller\PensionDetailControllerTest.class
+com\cognizant\ms\PensionerDetailMicroServiceApplicationTests.class
+com\cognizant\ms\model\PensionerDetailModelTest.class
+com\cognizant\ms\service\PensionerDetailServiceTest.class
