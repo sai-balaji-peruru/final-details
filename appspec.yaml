@@ -3,8 +3,8 @@ Resources:
   - TargetService:
       Type: AWS::ECS::Service
       Properties:
-        TaskDefinition: "arn:aws:ecs:sa-east-1:274201610284:task-definition/deatils-td:1"
+        TaskDefinition: "arn:aws:ecs:sa-east-1:274201610284:task-definition/final-details-td:1"
         LoadBalancerInfo:
-          ContainerName: "details-container"
+          ContainerName: "details-container-final"
           ContainerPort: "9097"
         PlatformVersion: "LATEST"
